@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ssoldatenko77.github.io/rsschool-cv/cv
