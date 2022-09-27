@@ -16,3 +16,6 @@
 1 WEB(HTML, CSS)
 2 JavaScript
 3 MySQL
+***
+### Language :
+English a little bit.
